@@ -7,4 +7,3 @@ end
 end
 
 beyonce = Person.new("Beyonce")
-
